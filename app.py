@@ -16,7 +16,7 @@ def load_data():
 df = load_data()
 
 # ========= 页面头部 =========
-st.title("📊 电商订单运营看板 | Team OpsQuartet")
+st.title("📊 电商订单运营看板 | Team 9")
 st.caption("目标用户：电商运营经理｜用于监控订单、退货风险，辅助履约与运营优化决策")
 
 # -------- 侧边栏筛选控件 --------
